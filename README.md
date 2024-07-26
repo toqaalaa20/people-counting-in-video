@@ -15,5 +15,8 @@ python query.py "input video path" "output video destination path"
 ```
 
 
-https://github.com/user-attachments/assets/d2803294-7a32-4fc0-b284-4db7bf3e37a0
+
+
+https://github.com/user-attachments/assets/8d9812ca-3983-4bb2-8aa4-879485d76b6a
+
 
